@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "619e570f5a8a5a60cdd680da",
+    "name": "Susan Jackson",
+    "email": "susan.jackson@example.com",
+    "password": "$2b$12$Zu/KIzIAJBCKDIZW9NSGcuieiF4A.fX2mbmO34qZtmJz7yYHBEAZq",
+    "image": "https://randomuser.me/api/portraits/women/42.jpg",
+    "places": [
+      "61f136932ae6c1221a2ca9f7",
+      "613d46b1a2002c1bb7f77375",
+      "617d22b99a4be4f5374b1e28"
+    ]
+  },
+  {
+    "_id": "616e4f28c9f4d4b4f3f6c38d",
+    "name": "Ryan Lee",
+    "email": "ryan.lee@example.com",
+    "password": "$2b$12$65.bz0AtiMhgz4U1wtz9ieJkfwB1lFyAAL9SsgnrDd4nZsXWRmK4a",
+    "image": "https://randomuser.me/api/portraits/men/92.jpg",
+    "places": [
+      "60e42b7a901ccf3c3b0d3b4f",
+      "61947f1c43aa4e4c59f38b1e",
+      "613d89f3c780442e0e643b68"
+    ]
+  },
+  {
+    "_id": "6187dbf6a3a0c0133c7b936d",
+    "name": "Samantha Kim",
+    "email": "samantha.kim@example.com",
+    "password": "$2b$12$9vRBUaLD9/iLsdKH.KBxIu9j4Ynsc8Rp0/yBNOBgy7kF7PQktF/f.",
+    "image": "https://randomuser.me/api/portraits/women/58.jpg",
+    "places": [
+      "6142ef883c7f573126e57997",
+      "618d95c1ba9df424864a82ed",
+      "61f245c7a64f8c57f7d1d2a9"
+    ]
+  },
+  {
+    "_id": "611b8aaee839a7500151a35f",
+    "name": "John Martinez",
+    "email": "john.martinez@example.com",
+    "password": "$2b$12$fEgS545dqLP549iZWvJq/.dS.Sc0yCV9DXF.f3j4XTvWG2dPt7ehq",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "places": ["61100e3d7f3e6743c5e5e947", "6126d82b6ba9ee1c8f3157d7"]
+  },
+  {
+    "_id": "617e60ecf46bb52630a99b9c",
+    "name": "Jasmine Wright",
+    "email": "jasmine.wright@example.com",
+    "password": "$2b$12$lieWt4w88C3Btznl37mR2OSaMoc1.D5a.sxTROgV9YeHWOrGBSZHe",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "places": [
+      "6167aebc2798e47c013e7252",
+      "619162c2e45f7b55f3a3ab7c",
+      "60a7eb1df0d74f4f0c66ec89"
+    ]
+  },
+  {
+    "_id": "613bca75e7b13e1f1c5b5f5c",
+    "name": "Mark Lee",
+    "email": "mark.lee@example.com",
+    "password": "$2b$12$/i6rZmW.KZLp/QdKz7DKq.VCR5WfTZ2F1xsnOoeeb.B7nQso/DRbW",
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "places": ["61adad08a0b56e2bdaaa90f3", "60f9c50c8d17b46d85f2a1b1"]
+  },
+  {
+    "_id": "60e9c72047a1a965cbb780f5",
+    "name": "Victoria Williams",
+    "email": "victoria.williams@example.com",
+    "password": "$2b$12$BXgtqNb48JJQJ9NuG4Vu3OLDyrITscXrbrSMPj/6jQsK0x6ksGkKq",
+    "image": "https://randomuser.me/api/portraits/women/62.jpg",
+    "places": ["612077c14d32437b16a9fc9c"]
+  },
+  {
+    "_id": "61408d7d8b4de2426d4e4bb9",
+    "name": "David Rodriguez",
+    "email": "david.rodriguez@example.com",
+    "password": "$2b$12$HZb6sZLyNXckB/XUTR44gOpOuE6/nh43zoC2oaG0FgnFnOXvr9Ety",
+    "image": "https://randomuser.me/api/portraits/men/83.jpg",
+    "places": ["614b80d2e1bf875b3161e70f"]
+  },
+  {
+    "_id": "618cd3e3ba50db74d27f52e4",
+    "email": "jennifer.brown@example.com",
+    "name": "Jennifer Brown",
+    "password": "$2b$12$owtm2eb8M8XdjCpCVHbgQuAa9JMMIfT4xn4TJpXkchqiERA9P7Bny",
+    "image": "https://randomuser.me/api/portraits/women/94.jpg",
+    "places": ["618b95d6724e2e30d92c58de"]
+  },
+  {
+    "_id": "61adad85d4dd9a24d3fc6f1a",
+    "name": "Matthew Davis",
+    "email": "matthew.davis@example.com",
+    "password": "$2b$12$DCV/2t4gV4lLyXsVHzElWeCmMx.UaWgIruSGXBas8QbcBDTWPQkfm",
+    "image": "https://randomuser.me/api/portraits/men/81.jpg",
+    "places": ["6168e08e9d03fb11423851a1"]
+  }
+]
